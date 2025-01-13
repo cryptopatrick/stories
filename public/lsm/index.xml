@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lsms on C.P. Short Stories</title>
+    <link>//localhost:1313/lsm/</link>
+    <description>Recent content in Lsms on C.P. Short Stories</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/lsm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Log-Structured Merge Tree</title>
+      <link>//localhost:1313/lsm/2025-01-11/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/lsm/2025-01-11/</guid>
+      <description>An LSM Tree overview and Java implementation.</description>
+    </item>
+  </channel>
+</rss>

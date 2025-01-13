@@ -1,0 +1,96 @@
+#baseURL = '/'
+baseURL = "localhost"
+#baseURL = 'http://example.org/'
+languageCode = 'en-us'
+#title = 'C.P.◀'
+title = '👾'
+#title = '🖊️'
+#title = '🏠'
+#title = '🏠'
+theme = 'typo'
+
+
+#theme = 'light'
+hideHeader = true
+listSummaries = true
+
+
+[module]
+[[module.imports]]
+#path = "github.com/tomfran/typo"
+
+[taxonomies]
+tag = 'tags'
+
+# Google analytics code
+#googleAnalytics = "G-xxxxxxxxx"
+
+[params]
+# Meta description
+description = "C.P. Short Stories"
+faviconPath = 'themes/typo/static/favicon.ico'
+
+# Appearance settings
+#theme = 'auto'
+colorPalette = 'default'
+
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Greetings!'
+homeIntroContent = """
+I'm C.P. from Sweden. I love the written word and I'm interested in a range of topics, including; mathematics, philosophy, and science fiction. In December 2024 I started writing fiction for the first time in my life. This site is where I'll collect my short stories. Please note, I'm new to writing  and English is not my native language - so expect everything here to pretty much suck.
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Short Stories'
+homeCollection = 'stories'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = false
+#listDateFormat = '2 Jan 2006'
+listDateFormat = '2006 Jan 2'
+
+# Breadcrumbs
+breadcrumbs = false
+
+# Social icons
+[[params.social]]
+# name = "linkedin"
+# url = "https://www.linkedin.com/in/user/"
+
+[[params.social]]
+# name = "medium"
+# url = "https://medium.com/@user"
+
+[[params.social]]
+# name = "github"
+# url = "https://github.com/user"
+
+# Main menu pages
+# [[params.menu]]
+# name = "home"
+# url = "/"
+
+# [[params.menu]]
+# name = "posts"
+# url = "/posts"
+
+# [[params.menu]]
+# name = "about"
+# url = "/about"
+
+# Syntax highlight on code blocks
+# [markup]
+# [markup.highlight]
+# style = 'algol'
+
+# Giscus comments
+# [params.giscus]
+# enable = false
+# repo = "user/repo"
+# repoid = "repoId"
+# category = "General"
+# categoryid = "categoryId"
+# mapping = "pathname"
+# theme = "preferred_color_scheme"
