@@ -1,5 +1,5 @@
-baseURL = '/'
-#baseURL = 'https://cryptopatrick.netlify.app/'
+#baseURL = '/'
+baseURL = 'https://cryptopatrick.netlify.app/'
 #baseURL = "localhost"
 #baseURL = 'http://example.org/'
 languageCode = 'en-us'
