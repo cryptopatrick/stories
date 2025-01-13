@@ -2,25 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/database/</loc>
+    <loc>//localhost:51190/tags/database/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>//localhost:51190/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/java/</loc>
+    <loc>//localhost:51190/tags/java/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/stories/</loc>
+    <loc>//localhost:51190/stories/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>//localhost:51190/tags/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/stories/2025-01-11/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/stories/time-lock-message/2025-01-11/</loc>
+    <loc>//localhost:51190/stories/2025-01-11/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url>
 </urlset>
