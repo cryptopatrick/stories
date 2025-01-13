@@ -1,4 +1,6 @@
 #baseURL = '/'
+#baseurl = "https://www.cryptopatrick.com/"
+relativeURLs = true
 baseURL = 'https://cryptopatrick.netlify.app/'
 #baseURL = "localhost"
 #baseURL = 'http://example.org/'
