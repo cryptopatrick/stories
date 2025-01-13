@@ -2,22 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/database/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+    <loc>https://cryptopatrick.netlify.app/</loc>
+    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+    <loc>https://cryptopatrick.netlify.app/stories/</loc>
+    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/java/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+    <loc>https://cryptopatrick.netlify.app/stories/2025-01-13/</loc>
+    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stories/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/stories/2025-01-11/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+    <loc>https://cryptopatrick.netlify.app/tags/</loc>
   </url>
 </urlset>
