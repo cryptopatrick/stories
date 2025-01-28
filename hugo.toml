@@ -19,7 +19,7 @@ listSummaries = true
 
 
 [module]
-[[module.imports]]
+#[[module.imports]]
 #path = "github.com/tomfran/typo"
 
 [taxonomies]
@@ -29,10 +29,10 @@ tag = 'tags'
 #googleAnalytics = "G-xxxxxxxxx"
 
 [params]
-# Meta description
-description = "C.P. Short Stories"
-faviconPath = 'themes/typo/static/favicon.ico'
 theme = 'light'
+# Meta description
+#description = "C.P. Short Stories"
+faviconPath = 'themes/typo/static/favicon.ico'
 
 # Appearance settings
 #theme = 'auto'
